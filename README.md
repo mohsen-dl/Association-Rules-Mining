@@ -1,2 +1,7 @@
 # Association-Rules-Mining
  
+## Introduction
+Association rule mining is a procedure which aims to observe frequently occurring patterns, correlations, or associations from datasets found in various kinds of databases such as relational databases, transactional databases, and other forms of repositories. The Association rule furthermore looks for interesting associations among the variables of the dataset. (Abhinav Rai, 2022) Then, depending on the following two parameters, the important relationships are observed:
+Support: Support indicates how frequently the if/then relationship appears in the database.
+Confidence: Confidence tells about the number of times these relationships have been found to be true. (Abhinav Rai, 2022)
+Association rules for medical purposes can help doctors diagnose and treat patients. Diagnosis is a difficult procedure with many potential errors that might lead to incorrect findings. We may use association rule mining to determine the probability of diseases based on multiple parameters and indicators. This method may also be developed using learning approaches by adding additional indicators and identifying connections between the new indicators and the related illnesses. In this work, we will try to find the relationship between several indicators including the Occurrence of nausea, Lumbar pain, Urine pushing, Micturition pains and Burning of the urethra with two diseases named Inflammation of urinary bladder and Nephritis of renal pelvis origin. The result helps doctors to make better and more accurate decisions. 
